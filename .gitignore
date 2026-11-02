@@ -1,0 +1,21 @@
+# Large datasets
+dataset/
+SIH/
+clean_speech/
+noise/
+
+# Temporary outputs
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
